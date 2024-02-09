@@ -11,6 +11,8 @@ Eu sou o Deivid mais conhecido por DvD, sou programador Front End, atualmente ap
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DBandiera&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBandiera&hide_progress=true)
+
 
 
 <!--
