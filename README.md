@@ -9,7 +9,16 @@ Eu sou o Deivid mais conhecido por DvD, sou programador Front End, atualmente ap
   <img width="60px" height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
 </div>
 
+<br>
+<br>
+<br>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DBandiera&show_icons=true&theme=transparent)
+
+<br>
+<br>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBandiera&hide_progress=true)
 
